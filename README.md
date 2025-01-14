@@ -19,6 +19,12 @@ Course App is a mobile application designed for seamless and user-friendly learn
 The Course App is perfect for anyone looking to learn on the go. With its intuitive interface and robust feature set, it redefines mobile learning experiences.
 
 ---
+## Screenshots
+![LabExam-02_IT22222640_page-0002](https://github.com/user-attachments/assets/3fe34836-fd07-432d-b0c2-aedb70a712e6)
+![LabExam-02_IT22222640_page-0003](https://github.com/user-attachments/assets/4491fa58-97eb-4b8a-9dc2-85345d84b633)
+![LabExam-02_IT22222640_page-0004](https://github.com/user-attachments/assets/c92c381b-e8a0-401e-8952-aa7469c74de1)
+![LabExam-02_IT22222640_page-0005](https://github.com/user-attachments/assets/df445856-66e1-4130-8c57-a9e80bb557e2)
+![LabExam-02_IT22222640_page-0006](https://github.com/user-attachments/assets/a38f9a1e-3995-42e5-b54e-7cf3e62d80f2)
 
 ## Technologies Used
 
